@@ -4,9 +4,9 @@
 
 ### Links and Resources
 
-- [repo link]()
-- [Pull Request]()
-- [HEROKU App]()
+- [repo link](https://github.com/RulaAlqasem/caps)
+- [Pull Request](https://github.com/RulaAlqasem/caps/pull/1)
+- [HEROKU App](https://rulaalqasem-server-deploy-dev.herokuapp.com/)
 
 #### How to initialize/run your application (where applicable)
 
